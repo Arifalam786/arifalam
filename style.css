@@ -38,7 +38,7 @@ a {
     font-family: inherit;
 }
 
-.name{
+.name {
     display:flex;
     flex-direction: column;
 }
