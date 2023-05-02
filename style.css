@@ -160,7 +160,7 @@ section {
 }
 
 .left-header {
-    display: flex;
+    /*display: flex;*/
     align-items: center;
     position: relative;
 }
