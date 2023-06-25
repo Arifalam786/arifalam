@@ -659,7 +659,7 @@ section {
 
 /*----------------Blogs-------------------------*/
 
-.blogs {
+/* .blogs {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 2rem;
@@ -716,7 +716,24 @@ section {
     line-height: 2rem;
     padding-bottom: 1rem;
 }
+ */
+#blogs {
+    justify-content: center;
+    text-align: center;
+}
 
+.blogs-content {
+    border: 5px solid #57a55d;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    padding: 10px;
+    left: 50%;
+}
+
+.certi {
+    margin-top: 40px;
+}
 
 /*-----------------------contact-------------------------*/
 
