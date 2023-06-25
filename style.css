@@ -391,6 +391,12 @@ section {
     width: 60%;
 }
 
+.progress>.opencv {
+    width: 50%;
+}
+.progress>.data-analysis {
+    width: 80%;
+}
 .progress>.html {
     width: 90%;
 }
