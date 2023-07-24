@@ -1,2 +1,2 @@
 ﻿# arifkaport
- # follow the link to visit my page :-https://arifalam786.github.io/arifport/
+ # follow the link to visit my page :-https://arifalam786.github.io/arifdetail/
